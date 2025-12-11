@@ -1,0 +1,14 @@
+Metric,Value,Interpretation
+Silhouette Score,0.2445,Weak
+Davies-Bouldin Index,1.6812,Good
+Calinski-Harabasz Score,10.62,Higher is better
+Fuzzy Partition Coefficient,0.5608,Moderate
+Partition Entropy,0.6297,Moderate
+WCSS Total,1358.81,Sum of within-cluster variance
+Center Distance,4.3700,Inter-cluster separation
+Dunn Index,0.2530,Good
+Crisp Assignments (%),5.9%,Moderate
+Fuzzy Assignments (%),94.1%,Ambiguous assignments
+Bootstrap Stability (ARI),0.6647 ± 0.2314,Moderate
+Convergence Iterations (mean),21.5 ± 6.5,Fast convergence
+FPC Consistency (std),0.0001,Consistent

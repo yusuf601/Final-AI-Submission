@@ -1,0 +1,11 @@
+Cluster,Risk_Level,Characteristics,Policy_Priority,Recommendations
+1,HIGH-RISK,"High volatility, elevated prices, frequent price spikes",URGENT,"1. Emergency food subsidies (targeted)
+2. Logistics infrastructure improvement
+3. Buffer stock deployment
+4. Real-time price monitoring & early warning
+5. Inter-provincial trade facilitation"
+0,LOW-RISK,"Stable prices, adequate supply, predictable market",MAINTENANCE,"1. Continue current policies
+2. Surplus management (export/inter-provincial)
+3. Regular monitoring (prevent deterioration)
+4. Production optimization
+5. Support as supply hubs for high-risk provinces"
