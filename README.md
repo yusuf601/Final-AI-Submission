@@ -94,7 +94,7 @@ conda deactivate <env_name>
 # My Paper
 
 beside coding create paper is one of requirements for pass this course,i create paper using
-latex,you can view my code and paper on this repository:[paper](https://github.com/yusuf601/my-paper)
+latex in overleaf,you can view and read my code and paper on this link:[paper](https://www.overleaf.com/read/yyvkqdbgtppr#74dc03)
 
 > [!note]
 > paper still on develoment,i think i need 1 week to complete this paper
