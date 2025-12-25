@@ -97,5 +97,4 @@ beside coding create paper is one of requirements for pass this course,i create 
 latex,you can view my code and paper on this repository:[paper](https://github.com/yusuf601/my-paper) and [overleaf](https://www.overleaf.com/read/yyvkqdbgtppr#74dc03)
 
 > [!NOTE]
-> i have completed paper,i took me a week to complete it, altough late the paperstill finished
-> you can 
+> i have completed paper,i took me a week to complete it, altough late the paper still finished
